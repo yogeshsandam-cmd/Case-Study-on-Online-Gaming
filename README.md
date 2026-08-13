@@ -1,10 +1,8 @@
-# Case-Study-on-Online-Gaming
+# Case-Study-on-Online-Gaming Using Machine learning
 Online Gaming Player Engagement Prediction
 Goal: Predict EngagementLevel (High, Medium, Low) using player demographics + gameplay behavior metrics.
 
-This notebook follows a full end-to-end ML workflow:
-
-Problem understanding
+Problem understanding:
 Data loading + quality checks
 EDA (univariate, bivariate, multivariate)
 Feature engineering + preprocessing
